@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Configuracoes locais e credenciais
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor e sistema
+.idea/
+.vscode/
+Thumbs.db
+.DS_Store
+*.log
