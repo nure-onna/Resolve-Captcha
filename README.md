@@ -1,6 +1,6 @@
 # Resolve-Captcha
 
-Código Python com funções de OCR e interação com desafios de imagens usando Playwright, Tesseract e uma API de IA compatível com OpenAI.
+Código Python com funções de OCR  para CAPTCHA e RECAPTCHA e interação com desafios de imagens usando Playwright, Tesseract e uma API de IA local compatível com OpenAI ou Gemini online.
 
 ## Estrutura
 
