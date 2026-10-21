@@ -37,3 +37,15 @@ Arquivos `.env` não são carregados automaticamente.
 Não inclua chaves de API ou senhas no código. Configure-as por variáveis de ambiente.
 As dependências ainda não têm versões fixadas; a execução precisa ser validada no
 ambiente de destino.
+
+
+
+## Licença
+
+Este projeto está sob a licença MIT. Você pode usar, modificar e
+distribuir o código, inclusive para fins comerciais, desde que mantenha
+o aviso de autoria e a licença.
+
+Contribuições e melhorias são bem-vindas!
+
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
